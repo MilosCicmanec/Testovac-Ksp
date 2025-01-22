@@ -1,2 +1,4 @@
-#Vypracone ulohy Testovaca KSP 
+# Vypracone ulohy Testovaca KSP 
+
+
 Oddelene su podla kapitol
